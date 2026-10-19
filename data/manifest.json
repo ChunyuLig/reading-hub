@@ -1,0 +1,522 @@
+[
+ {
+  "id": "tiny-habits",
+  "emoji": "🌱",
+  "bilingual": true,
+  "author": "BJ Fogg",
+  "title": {
+   "en": "Tiny Habits",
+   "zh": "微习惯（福格行为模型）"
+  },
+  "category": {
+   "en": "Habits & Growth",
+   "zh": "习惯 · 自我成长"
+  }
+ },
+ {
+  "id": "art-of-impossible",
+  "emoji": "🚀",
+  "bilingual": true,
+  "author": "Steven Kotler",
+  "title": {
+   "en": "The Art of Impossible",
+   "zh": "不可能的艺术"
+  },
+  "category": {
+   "en": "Habits & Growth",
+   "zh": "习惯 · 自我成长"
+  }
+ },
+ {
+  "id": "minimalist-home",
+  "emoji": "🏠",
+  "bilingual": true,
+  "author": "Joshua Becker",
+  "title": {
+   "en": "The Minimalist Home",
+   "zh": "极简之家"
+  },
+  "category": {
+   "en": "Habits & Growth",
+   "zh": "习惯 · 自我成长"
+  }
+ },
+ {
+  "id": "philosophy-for-studs",
+  "emoji": "♂️",
+  "bilingual": true,
+  "author": "Anthony Leccisi",
+  "title": {
+   "en": "The Alpha Male Guide: Philosophy for Studs",
+   "zh": "阿尔法男性指南：硬汉哲学"
+  },
+  "category": {
+   "en": "Habits & Growth",
+   "zh": "习惯 · 自我成长"
+  }
+ },
+ {
+  "id": "naval-almanack",
+  "emoji": "🧭",
+  "bilingual": true,
+  "author": "Eric Jorgenson / Naval Ravikant",
+  "title": {
+   "en": "The Almanack of Naval Ravikant",
+   "zh": "纳瓦尔宝典：财富与幸福指南"
+  },
+  "category": {
+   "en": "Wealth & Career",
+   "zh": "财富 · 职业 · 理财"
+  }
+ },
+ {
+  "id": "pathfinder",
+  "emoji": "💼",
+  "bilingual": true,
+  "author": "Nicholas Lore & Monica Rose",
+  "title": {
+   "en": "The Pathfinder 3.0",
+   "zh": "职业探路者 3.0"
+  },
+  "category": {
+   "en": "Wealth & Career",
+   "zh": "财富 · 职业 · 理财"
+  }
+ },
+ {
+  "id": "infographic-personal-finance",
+  "emoji": "💰",
+  "bilingual": true,
+  "author": "Michele Cagan & Elisabeth Lariviere",
+  "title": {
+   "en": "The Infographic Guide to Personal Finance",
+   "zh": "个人理财图解指南"
+  },
+  "category": {
+   "en": "Wealth & Career",
+   "zh": "财富 · 职业 · 理财"
+  }
+ },
+ {
+  "id": "the-right-it",
+  "emoji": "💡",
+  "bilingual": true,
+  "author": "Alberto Savoia",
+  "title": {
+   "en": "The Right It",
+   "zh": "做对的事：让想法不再失败"
+  },
+  "category": {
+   "en": "Startup, Business & Product",
+   "zh": "创业 · 商业 · 产品"
+  }
+ },
+ {
+  "id": "business-book",
+  "emoji": "🏢",
+  "bilingual": true,
+  "author": "DK (Dorling Kindersley)",
+  "title": {
+   "en": "The Business Book",
+   "zh": "商业通识百科（DK）"
+  },
+  "category": {
+   "en": "Startup, Business & Product",
+   "zh": "创业 · 商业 · 产品"
+  }
+ },
+ {
+  "id": "infographic-entrepreneurs",
+  "emoji": "📐",
+  "bilingual": true,
+  "author": "Carissa Lytle & Jara Kern",
+  "title": {
+   "en": "The Infographic Guide for Entrepreneurs",
+   "zh": "创业者图解指南"
+  },
+  "category": {
+   "en": "Startup, Business & Product",
+   "zh": "创业 · 商业 · 产品"
+  }
+ },
+ {
+  "id": "yujun-product",
+  "emoji": "🧪",
+  "bilingual": false,
+  "author": "俞军",
+  "title": {
+   "en": "Yu Jun's Product Methodology",
+   "zh": "俞军产品方法论"
+  },
+  "category": {
+   "en": "Startup, Business & Product",
+   "zh": "创业 · 商业 · 产品"
+  }
+ },
+ {
+  "id": "how-to-know-a-person",
+  "emoji": "👁️",
+  "bilingual": true,
+  "author": "David Brooks",
+  "title": {
+   "en": "How to Know a Person",
+   "zh": "如何读懂一个人"
+  },
+  "category": {
+   "en": "People, Mind & Philosophy",
+   "zh": "人际 · 哲学 · 心智"
+  }
+ },
+ {
+  "id": "wittgenstein",
+  "emoji": "🧩",
+  "bilingual": true,
+  "author": "A. C. Grayling",
+  "title": {
+   "en": "Wittgenstein: A Very Short Introduction",
+   "zh": "维特根斯坦（牛津通识）"
+  },
+  "category": {
+   "en": "People, Mind & Philosophy",
+   "zh": "人际 · 哲学 · 心智"
+  }
+ },
+ {
+  "id": "zen-mind",
+  "emoji": "☯️",
+  "bilingual": true,
+  "author": "Shunryu Suzuki",
+  "title": {
+   "en": "Zen Mind, Beginner's Mind",
+   "zh": "禅者的初心"
+  },
+  "category": {
+   "en": "People, Mind & Philosophy",
+   "zh": "人际 · 哲学 · 心智"
+  }
+ },
+ {
+  "id": "story-mckee",
+  "emoji": "🎬",
+  "bilingual": true,
+  "author": "Robert McKee",
+  "title": {
+   "en": "Story",
+   "zh": "故事：材质、结构、风格与原理"
+  },
+  "category": {
+   "en": "Narrative & Expression",
+   "zh": "表达 · 叙事 · 可视化"
+  }
+ },
+ {
+  "id": "screenplay-field",
+  "emoji": "🎞️",
+  "bilingual": true,
+  "author": "Syd Field",
+  "title": {
+   "en": "Screenplay: The Foundations of Screenwriting",
+   "zh": "电影剧本写作基础"
+  },
+  "category": {
+   "en": "Narrative & Expression",
+   "zh": "表达 · 叙事 · 可视化"
+  }
+ },
+ {
+  "id": "storytelling-with-data",
+  "emoji": "📈",
+  "bilingual": true,
+  "author": "Cole Nussbaumer Knaflic",
+  "title": {
+   "en": "Storytelling with Data",
+   "zh": "用数据讲故事"
+  },
+  "category": {
+   "en": "Narrative & Expression",
+   "zh": "表达 · 叙事 · 可视化"
+  }
+ },
+ {
+  "id": "seventeen-equations",
+  "emoji": "➗",
+  "bilingual": true,
+  "author": "Ian Stewart",
+  "title": {
+   "en": "Seventeen Equations That Changed the World",
+   "zh": "改变世界的十七个方程"
+  },
+  "category": {
+   "en": "Math, Data & Civics",
+   "zh": "数学 · 数据 · 政治"
+  }
+ },
+ {
+  "id": "statistical-reasoning",
+  "emoji": "📊",
+  "bilingual": true,
+  "author": "Jeffrey Bennett",
+  "title": {
+   "en": "Statistical Reasoning for Everyday Life",
+   "zh": "生活中的统计推理"
+  },
+  "category": {
+   "en": "Math, Data & Civics",
+   "zh": "数学 · 数据 · 政治"
+  }
+ },
+ {
+  "id": "infographic-american-government",
+  "emoji": "🏛️",
+  "bilingual": true,
+  "author": "Carissa Lytle & Jara Kern",
+  "title": {
+   "en": "The Infographic Guide to American Government",
+   "zh": "美国政府图解指南"
+  },
+  "category": {
+   "en": "Math, Data & Civics",
+   "zh": "数学 · 数据 · 政治"
+  }
+ },
+ {
+  "id": "shiji",
+  "emoji": "🏯",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "司马迁 · 西汉",
+  "title": {
+   "en": "太史公书",
+   "zh": "史记"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "ershisishi",
+  "emoji": "🏛️",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "历代史官 · 汉—清",
+  "title": {
+   "en": "历代正史",
+   "zh": "二十四史总览"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "lunyu",
+  "emoji": "💬",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "孔子及其弟子 · 春秋",
+  "title": {
+   "en": "《论语》",
+   "zh": "论语"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "mengzi",
+  "emoji": "🗣️",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "孟轲 · 战国",
+  "title": {
+   "en": "《孟子》",
+   "zh": "孟子"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "daxue",
+  "emoji": "📐",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "曾子（传） · 战国",
+  "title": {
+   "en": "《礼记·大学》",
+   "zh": "大学"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "zhongyong",
+  "emoji": "⚖️",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "子思（传） · 战国",
+  "title": {
+   "en": "《礼记·中庸》",
+   "zh": "中庸"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "shijing",
+  "emoji": "🎵",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "佚名（孔子编订） · 西周—春秋",
+  "title": {
+   "en": "《诗三百》",
+   "zh": "诗经"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "zhouyi",
+  "emoji": "☯️",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "周文王、孔子（传） · 西周",
+  "title": {
+   "en": "《易经》",
+   "zh": "周易"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "shangshu",
+  "emoji": "📃",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "佚名（孔子编订） · 上古",
+  "title": {
+   "en": "《书经》",
+   "zh": "尚书"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "liji",
+  "emoji": "🏮",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "戴圣编 · 西汉",
+  "title": {
+   "en": "《小戴礼记》",
+   "zh": "礼记"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "zuozhuan",
+  "emoji": "📚",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "左丘明 · 春秋",
+  "title": {
+   "en": "《左氏春秋》",
+   "zh": "春秋左传"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "daodejing",
+  "emoji": "🌀",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "老子（李耳） · 春秋",
+  "title": {
+   "en": "《老子》",
+   "zh": "道德经"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "zhuangzi",
+  "emoji": "🦋",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "庄周 · 战国",
+  "title": {
+   "en": "《南华经》",
+   "zh": "庄子"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "hanfeizi",
+  "emoji": "🐉",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "韩非 · 战国",
+  "title": {
+   "en": "《韩非子》",
+   "zh": "韩非子"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "xunzi",
+  "emoji": "🎓",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "荀况 · 战国",
+  "title": {
+   "en": "《荀子》",
+   "zh": "荀子"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ },
+ {
+  "id": "mozi",
+  "emoji": "🛡️",
+  "bilingual": false,
+  "kind": "classic",
+  "author": "墨翟 · 战国",
+  "title": {
+   "en": "《墨子》",
+   "zh": "墨子"
+  },
+  "category": {
+   "en": "Chinese Classics",
+   "zh": "国学经典"
+  }
+ }
+]
